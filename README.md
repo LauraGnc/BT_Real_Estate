@@ -1,8 +1,11 @@
-Hello.
+```diff
++ STATUS OF THE PROJECT: FINISHED (AUG 2020)
+```
 
-This is a website that I've created for a real estate Partner.
+# BT Real Estate
 
-I've used Python and Django.
-No Bootstrap needed for this one.
+This is a project where I first learnt how to use Django.
+The project contains a website made with HTML, CSS & Bootstrap.
+The idea was to make this website dynamic, and connect a PostgreSQL database to it.
 
-All keys and PW are replaced with None.
+&#x1F539; Planning to replace this project with another business case in 2021.
